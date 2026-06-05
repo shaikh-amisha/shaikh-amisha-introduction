@@ -48,8 +48,8 @@ Currently a B.Tech CSE (Cybersecurity) student at **Ajeenkya DY Patil University
 
 ## 🏆 Achievements
 
-- 🌐 Ranked **Top 9% globally** on TryHackMe cybersecurity platform
-- 🇮🇳 Selected for **Smart India Hackathon (SIH)** — Internal Round, ADYPU
+- 🌐 Ranked **Top 6% globally** on TryHackMe cybersecurity platform
+- Selected for **Smart India Hackathon (SIH)** — Internal Round, ADYPU
 - 🏅 **Certificate of Appreciation** – Unmesh 2025, ADYPU, for publishing two research chapters with **IGI Global**
 
 ---
